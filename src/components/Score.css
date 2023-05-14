@@ -1,0 +1,8 @@
+.Score {
+  @apply  my-4 text-xl uppercase;
+
+  &Display {
+    @apply font-extrabold;
+  }
+}
+
